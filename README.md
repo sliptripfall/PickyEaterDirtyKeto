@@ -70,7 +70,7 @@ Ketones are a metabolic byproduct from the liver when burning fat for fuel inste
 ### Sugar Substitutes
 
 #### Monk Fruit
-Lo han guo, or monk fruit, is a small green melon native to souther China. The sweetener is made from extract derived from the dried fruit. The extract is 100+ times sweeter than table sugar, has zero calories, carbs, and does not raise blood glucose levels.
+Lo han guo, or Monk Fruit, is a small green melon native to souther China. The sweetener is made from extract derived from the dried fruit. The extract is 100+ times sweeter than table sugar, has zero calories, carbs, and does not raise blood glucose levels.
 
 There are no claimed gastrointestinal side effects, unlike Sugar Alcohols. There's no long term research, but is thought to be generally safe to consume over alternatives.
 
