@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Recipes.md",
+            "file": "Foods.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes.md",
+                "file": "Foods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +99,9 @@
   },
   "active": "fd300ad71fe59a3b",
   "lastOpenFiles": [
+    "Foods.md",
     "Recipes.md",
     "README.md",
-    "Foods.md",
     "Equipment.md",
     "Recipes.md"
   ]

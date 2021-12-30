@@ -35,7 +35,7 @@ When buying chocolate, it can be confusing what form you should buy it in and wh
 
 Cacao - made from beans that have not been roasted (more bitter, more nutritious)
 Cocoa - made from beans that are both fermented and roasted (less bitter, slightly darker)
-Chocolate Liquor -
+
 
 Note: Cacao powder is higher in calories and fiber than Cocoa because the nutrients and fats are still present. Cacao powder is a good source of monosaturated fats, or "good fats" - you will often see this marketed in keto products an MCT (medium-chain triglyceride) oil. A tablespoon of MCT oil contains ~14 grams of fat and 115 calories.
 
