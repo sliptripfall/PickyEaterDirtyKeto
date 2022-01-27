@@ -6,24 +6,28 @@
       {
         "id": "fd300ad71fe59a3b",
         "type": "leaf",
+        "dimension": 37.203791469194314,
         "state": {
           "type": "markdown",
           "state": {
             "file": "README.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "fca96d0ddf3ca482"
       },
       {
         "id": "6799f03db6b0f0ed",
         "type": "leaf",
+        "dimension": 62.796208530805686,
         "state": {
           "type": "markdown",
           "state": {
             "file": "README.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "fca96d0ddf3ca482"
       }
     ],
     "direction": "vertical"
@@ -97,11 +101,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6799f03db6b0f0ed",
+  "active": "fd300ad71fe59a3b",
   "lastOpenFiles": [
     "README.md",
+    "Equipment.md",
     "Recipes.md",
-    "Foods.md",
-    "Equipment.md"
+    "Foods.md"
   ]
 }

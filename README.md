@@ -2,6 +2,8 @@
 
 Hi, this repo doesn't contain any code, just plans for implementing the keto dietary system and my weight loss journey on Keto. I chose git/markdown/GitHub because I think this will evolve and change over time, and I want to track that. I also value using markdown to keep the documents simple, and I hope contributions are easier to manage.
 
+**There's 2 things I think you will want to know right off the bat to make a quick determination. That being: what foods you can & can't eat and what rituals are involved to get the gains. I will get to both of those as quick as I can but here's some things we have to cover first.**
+
 ## Disclaimer
 1. FOR EDUCATIONAL PURPOSES ONLY
 	1. The information provided in or through this repo is for general educational and information purposes only and solely as a self-help tool. You must not use this information as an alternative to seeking advice from a professional healthcare provider. Information contained is provided without any representation or warranties, expressed or implied. 
@@ -17,23 +19,13 @@ If you experience any of the following symptoms, call emergencies services immed
 3. Extreme thirst
 4. Troubles breathing
 
-## About
 
-I am an average mid-30's healthy guy who gained ~50 lbs over '20/'21. I was looking to lose weight without starving, eating veggies solely, or working out. I like some veggies and some working out, but I would rather not if I could help it. 
-
-### My Goal
-I wanted to lose 50 lbs passively via dietary modification. Unfortunately, I made several mistakes which pushed me back several weeks from my goal. I think all things optimal, I could have lost the weight in 60 days, but I am now around the 90-day mark with 4.6 lbs left of my 50 lb goal and ready to start sharing the data. 
-
-If that describes what you're looking for, this guide may help determine if a (dirty) keto diet is the right fit for you. If it is the right fit, I hope you can learn from my mistakes and start on the right foot, getting your gains early and often.
-
-### Retro/Lessons Learned
-- Scrutinize labels of your food, all of them, know what you are putting in your body
-- Be more proactive about adding foods/recipes into tracking app(s) early; you will slip less
-- Measure on the scale less, in the beginning. Use exponential back off when things are not going right (more on this later)
 
 ## General Info
 The ketogenic (keto) diet is a very low-carb, medium protein, high-fat diet. When carbs are restricted, the body enters a metabolic state called ketosis, which begins burning fat as a primary fuel source in place of carbs. 
 
+### Quick/Early Exit
+Thought I'd put this here so you can nope out of this bothers you. I would not recommend keto if you aren't willing to do 
 
 ### Dirty vs. Clean Keto
 As the title implies, this is a guide for dirty keto. You will need to use vitamins because when you remove nutrition, the food can simply become a number that needs to fit within a range. That is often easier to reason about and manage.
@@ -42,7 +34,7 @@ As the title implies, this is a guide for dirty keto. You will need to use vitam
 |-|-|
 | Focuses on caloric intake, not nutrition. Vitamins & supplements are needed to prevent malnutrition. | Focuses on nutrient-dense foods emphasizing quality of nutrition while also achieving desired dietary numbers. |
 
-Clean Keto also promotes not eating highly processed foods, regardless of the carb count, and avoiding nitrates in meats, as an example. Again, you can take this as far as you want, but intuitively know that the easier something is to store, prepare, and eat, the more likely it is to be processed.
+Clean Keto also promotes not eating highly processed foods, regardless of the carb count; like avoiding nitrates in meats, as an example. Again, you can take this as far as you want, but intuitively know that the easier something is to store, prepare, and eat, the more likely it is to be processed.
 
 > Call out for high sodium, sometimes you trade one problem for another. That's why it's crucial to scrutinize the WHOLE label (ingredients & nutritional facts) to be better informed.
 
@@ -60,7 +52,6 @@ These are the things you CANNOT eat*:
 - Bread
 
 
-
 ### What are Ketones?
 Ketones are a metabolic byproduct from the liver when burning fat for fuel instead of glucose. They are alternative fuels for the body that are made when a lack of glucose is available to the body.
 
@@ -68,13 +59,7 @@ Ketones are a metabolic byproduct from the liver when burning fat for fuel inste
 
 *DISCLAIMER: I am not a medical professional, but will do my best to describe how this works in the body*
 
-Your body prefers to use blood sugar (aka glucose) for energy. In the absence of glucose, the pancreas reduces insulin production though it continues producing glucagon and epinephrine at normal levels. This combination of low insulin, normal glucagon, and epinephrine causes fat to release from the fat cells. Those freed fats then circulate through the blood, reach the liver, and break down into ketones (beta-hydroxybutyrate, also known as BHB). Those ketones then circulate back into the bloodstream and are picked up by the muscles and other tissues to fuel the body's metabolism.
-
-
-
-
-
-
+Your body prefers to use blood sugar (aka glucose) for energy. In the absence of glucose, the pancreas reduces insulin production though it continues producing glucagon and epinephrine at normal levels. This combination of low insulin, normal glucagon and epinephrine causes fat to release from the fat cells. Those freed fats then circulate through the blood, reach the liver, and break down into ketones (beta-hydroxybutyrate, also known as BHB). Those ketones then circulate back into the bloodstream and are picked up by the muscles and other tissues to fuel the body's metabolism.
 
 
 ### What is Ketoacidosis
@@ -138,7 +123,19 @@ Exceptions:
 - Manchego
 - Munster
 
+## About
 
+I am an average mid-30's healthy guy who gained ~50 lbs over '20/'21. I was looking to lose weight without starving, eating veggies solely, or working out. I like some veggies and some working out, but I would rather not if I could help it. 
+
+### My Goal
+I wanted to lose 50 lbs passively via dietary modification. Unfortunately, I made several mistakes which pushed me back several weeks from my goal. I think all things optimal, I could have lost the weight in 60 days, but I am now around the 90-day mark with 4.6 lbs left of my 50 lb goal and ready to start sharing the data. 
+
+If that describes what you're looking for, this guide may help determine if a (dirty) keto diet is the right fit for you. If it is the right fit, I hope you can learn from my mistakes and start on the right foot, getting your gains early and often.
+
+### Retro/Lessons Learned
+- Scrutinize labels of your food, all of them, know what you are putting in your body
+- Be more proactive about adding foods/recipes into tracking app(s) early; you will slip less
+- Measure on the scale less, in the beginning. Use exponential back off when things are not going right (more on this later)
 
 ### Reading labels
 //TODO
@@ -216,7 +213,7 @@ Use an exogenous BHB supplement. This will make ketones available in the blood. 
 	1. Alcohol raises ketone levels because it causes the pancreas to stop producing insulin for some time.
 
 
-According to my app, high ketones started for me at the 50th consecutive day of staying under 25g of carbs. I started feeling off for a few days during a holiday week where I was not moving around and was not as hungry/eating as much. When I sampled my blood, I was 3.2 mmol/L 3 hours after a meal with 16g of carbs, which is pretty high for where I usually sit (between .8-2.2 first thing in the morning). I felt weak/tired, and lethargic. I ate two pop-tarts and Great Value Oatmeal Cookies at 10a; when I sampled again at 1:30, I was 1.8 mmol/L. Later that evening, sampled again at 5p, I was back up at 2.8. Again, I ate some carbs for dinner and went to bed.
+According to my app, high ketones started for me at the 50th consecutive day of staying under 25g of carbs. I started feeling off for a few days during a holiday week where I was not moving around and was not as hungry/eating as much. When I sampled my blood, I was 3.2 mmol/L 3 hours after a meal with 16g of carbs, which is pretty high for where I usually sit (between .8-2.2 first thing in the morning). I felt weak/tired, and lethargic. I ate two pop-tarts and Great Value Oatmeal Cookies at 10a; when I sampled again at 1:30, I was 1.8 mmol/L. Later that evening, sampled again at 5p, I was back up at 2.8. Again, I ate some carbs for dinner and went to bed. Stopping the fast and eating meals was the end solution.
 
 
 
