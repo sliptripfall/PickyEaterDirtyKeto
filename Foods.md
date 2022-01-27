@@ -8,8 +8,9 @@
 
 - [Carbquik Baking Mix](https://www.amazon.com/gp/product/B000G0EP78)
 
-![](img/carbquik.png | 100px)
+<img src="img/carbquik.png" width="100" height="100">
 
+## Cacao/Cocoa/Chocolate
 
 When buying chocolate, it can be confusing what form you should buy it in and whether or not it will have sugar already added. Here's some information about chocolate to get the terminology and what I usually buy.
 
