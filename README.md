@@ -2,7 +2,7 @@
 
 Hi, this repo doesn't contain any code, just plans for implementing the keto dietary system and my weight loss journey on Keto. I chose git/markdown/GitHub because I think this will evolve and change over time, and I want to track that. I also value using markdown to keep the documents simple, and I hope contributions are easier to manage.
 
-**There's 2 things I think you will want to know right off the bat to make a quick determination. That being: what foods you can & can't eat and what rituals are involved to get the gains. I will get to both of those as quick as I can but here's some things we have to cover first.**
+**There are two things I think you will want to know right off the bat to make a quick determination. That being: what foods you can & can't eat and what rituals are involved in getting the gains. I will get to both of those as quickly as possible, but here are some things we have to cover first.**
 
 ## Disclaimer
 1. FOR EDUCATIONAL PURPOSES ONLY
@@ -20,20 +20,26 @@ If you experience any of the following symptoms, call emergencies services immed
 4. Troubles breathing
 
 
-Foods high in animal fats and oils can increase your risk of heart disease. Experts still aren't sure if a low or no carb diet is healthy. Talk to your healthcare provider before trying a low or no carb diet.
+Foods high in animal fats and oils can increase your risk of heart disease. Experts still aren't sure if a low or no-carb diet is healthy. Talk to your healthcare provider before trying a low or no-carb diet.
 
 ## General Info
 The ketogenic (keto) diet is a very low-carb, medium protein, high-fat diet. When carbs are restricted, the body enters a metabolic state called ketosis, which begins burning fat as a primary fuel source in place of carbs. 
 
 ### Quick/Early Exit
-Thought I'd put this here so you can nope out of this bothers you. I would not recommend keto if you aren't willing to do blood testing from finger pricks. Overall, there's a method to make it not painful and I have some advice if it is painful, because it's possible to sample with minimal bother. However, if you cannot do a finger prick you might want to reconsider.
+I thought I'd put this here so you can nope out if any of the following are deal-breakers. 
 
-Here's what you can and can't eat. Remember, keto is "low" carb, it's possible some of these foods can be consumed so long as you stay under your daily limit for carbs. For me, that is a maximum of 25 grams a day. Just remember that you have a budget and everything has a cost, as long as those match you'll lose weight. The better you are about reducing carbs, the more consistently you will lose weight.
+1. I would not recommend keto if you aren't willing to do blood testing from finger pricks. 
+	1. Overall, there's a method to make it not painful, and I have some advice if you encounter that. However, if you cannot do a finger prick, you might reconsider.
+2. If you aren't willing to read labels and track what you eat, this will probably be painful.
+	1. Hitting your macros for fat/protein/carbs/calories is hard to do with mental math.
+3. See the next section on what foods you can/can't eat.
+
+Remember that keto is "low" carb, you have a budget, and everything costs. As long as those align, you'll lose weight. For me, that is a maximum of 25 grams a day. The better you are at reducing carbs, the more consistently you will lose weight.
 
 #### What is a Carbohydrate? (aka what can I NOT eat)
-Carbohydrates are a macronutrient that exist in fibers, starches, and sugars. They turn into glucose when processed by the body. These are "bad" because they prevent your body from entering ketosis and burning fat.
+Carbohydrates are a macronutrient that exists in fibers, starches, and sugars. They turn into glucose when processed by the body. These are "bad" because they prevent your body from entering ketosis and burning fat.
 
-These are the things you **CANNOT** eat*:
+These are examples of things you **CANNOT** eat*:
 
 >*There are some exceptions
 - Grains
@@ -47,9 +53,10 @@ These are the things you **CANNOT** eat*:
 - Fruits
 	- Everything, except the berries mentioned in the next section
 - Starchy Vegetables
-	- Corn
-	- Peas
-	- Potatoes
+  - **Corn** (1 cup): 32 g net carbs (36 g total carbs)
+  - **Potato** (1 medium): 33 g net carbs (37 g total carbs)
+  - **Sweet potato** (1 medium): 20 g net carbs (24 g total carbs)
+  - **Beets** (1 cup, cooked): 14 g net carbs (17 g total carbs)
 - Beans & Legumes
 	- Black beans
 	- Chickpeas
@@ -63,12 +70,11 @@ These are the things you **CANNOT** eat*:
 	- Honey
 	- Molasses
 	- Brown & White Sugar
-	
-
+	- Milk - has 12 grams of sugar (lactose)
 
 
 #### What CAN I eat?
-When looking at the nutritional label for total carbs, know that **Dietary Fibers** aren't counted in keto. Anything that has carbs, but are only under dietary fiber or classified as a Sugar Alcohol, you can subtract from the total carbs to calculate the [Net Carbs](#calculating-net-carbs).
+When looking at the nutritional label for total carbs, know that **Dietary Fibers** are not counted in keto. See this formula to calculate [net carbs](#calculating-net-carbs).
 
 
 **NOTE**: You can have cacao and cocoa (aka dark chocolate), see the section on [chocolate](Foods.md#cacaococoachocolate) for more information.
@@ -98,10 +104,12 @@ When looking at the nutritional label for total carbs, know that **Dietary Fiber
 #### Fruits
 Sadly, fruits have a TON of natural sugar. So if it's sweet, you can't have it.
 
-Exceptions:
-- Strawberries
-- Blueberries
-- Blackberries
+**Carb counts for 1/2 cup of some berries:**
+
+-   **Blackberries:** 3 g net carbs (7 g total carbs)
+-   **Blueberries:** 9 g net carbs (11 g total carbs)
+-   **Raspberries:** 3 g net carbs (7 g total carbs)
+-   **Strawberries:** 3 g net carbs (6 g total carbs)
 
 #### Fat Sources
 - Butter
@@ -121,6 +129,23 @@ Exceptions:
 - Manchego
 - Munster
 
+#### Nuts
+-   **Almonds:** 3 g net carbs (6 g total carbs)
+-   **Brazil nuts:** 1 g net carbs (3 g total carbs)
+-   **Cashews:** 8 g net carbs (9 g total carbs)
+-   **Macadamia nuts:** 2 g net carbs (4 g total carbs)
+-   **Pecans:** 1 g net carbs (4 g total carbs)
+-   **Pistachios:** 5 g net carbs (8 g total carbs)
+-   **Walnuts:** 2 g net carbs (4 g total carbs)
+-   **Chia seeds:** 2 g net carbs (12 g total carbs)
+-   **Flaxseeds:** 0 g net carbs (8 g total carbs)
+-   **Pumpkin seeds:** 2 g net carbs (4 g total carbs)
+-   **Sesame seeds:** 4 g net carbs (7 g total carbs
+
+#### Liquids
+- Almond & coconut milk 
+- Carbonated water
+- Unsweet Tea \ Black Coffee
 
 
 ### Dirty vs. Clean Keto
@@ -200,18 +225,19 @@ If that describes what you're looking for, this guide may help determine if a (d
 
 ## How to nutrition
 
+### What is hard about keto
+It can be difficult at first to ensure you're hitting your macros following the diet. You don't want protein higher than fat, otherwise, you will start bulking muscle and gain weight.
+
 ### Calculating Net Carbs
 
+total carbs - dietary fiber - qualified sugar alcohols = net carbs
 
-#### Dietary Fibers
-
-#### Sugar Substitues
-
+Be careful about hidden sugars and qualified sugar alcohols, not all SA's are carb neutral.
 
 ### Sugar Substitutes
 
 #### Monk Fruit
-Lo han guo, or Monk Fruit, is a small green melon native to southern China. The sweetener is made from the extract derived from the dried fruit. Monk Fruit is 100+ times sweeter than table sugar, has zero calories, carbs, and does not raise blood glucose levels.
+Lo han guo, or Monk Fruit, is a small green melon native to southern China. The sweetener is made from the extract derived from the dried fruit. Monk Fruit is 100+ times sweeter than table sugar, has zero calories, zero carbs, and does not raise blood glucose levels.
 
 There are no claimed gastrointestinal side effects, unlike Sugar Alcohols. There's no long-term research but is thought to be generally safe to consume over alternatives.
 
