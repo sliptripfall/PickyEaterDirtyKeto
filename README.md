@@ -1,6 +1,6 @@
 # Picky Eaters Guide to Dirty Keto
 
-Hi, this repo doesn't contain any code, just plans for implementing the keto dietary system and my weight loss journey on Keto. I chose git/markdown/GitHub because I think this will evolve and change over time, and I want to track that. I also value using markdown to keep the documents simple, and I hope contributions are easier to manage.
+Hi, this repo doesn't contain any code, just plans for implementing the ketogenic dietary system and my weight loss journey on keto. I chose git/markdown/GitHub because I think this will evolve and change over time, and I want to track that. I also value using markdown to keep the documents simple, and I hope contributions are easier to manage.
 
 **There are two things I think you will want to know right off the bat to make a quick determination. That being: what foods you can & can't eat and what rituals are involved in getting the gains. I will get to both of those as quickly as possible, but here are some things we have to cover first.**
 
