@@ -6,7 +6,7 @@
       {
         "id": "fd300ad71fe59a3b",
         "type": "leaf",
-        "dimension": 37.203791469194314,
+        "dimension": 58.88625592417062,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "6799f03db6b0f0ed",
         "type": "leaf",
-        "dimension": 62.796208530805686,
+        "dimension": 41.11374407582938,
         "state": {
           "type": "markdown",
           "state": {
@@ -104,6 +104,7 @@
   "active": "fd300ad71fe59a3b",
   "lastOpenFiles": [
     "README.md",
+    "img/weight_loss.png",
     "Recipes.md",
     "Foods.md",
     "Equipment.md"
