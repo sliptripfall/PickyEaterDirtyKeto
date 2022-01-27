@@ -26,15 +26,15 @@ Foods high in animal fats and oils can increase your risk of heart disease. Expe
 The ketogenic (keto) diet is a very low-carb, medium protein, high-fat diet. When carbs are restricted, the body enters a metabolic state called ketosis, which begins burning fat as a primary fuel source in place of carbs. 
 
 ### Quick/Early Exit
-I thought I'd put this here so you can nope out if any of the following are deal-breakers. 
+I thought I'd put this here so you can nope out, if any of the following are deal-breakers. 
 
 1. I would not recommend keto if you aren't willing to do blood testing from finger pricks. 
 	1. Overall, there's a method to make it not painful, and I have some advice if you encounter that. However, if you cannot do a finger prick, you might reconsider.
-2. If you aren't willing to read labels and track what you eat, this will probably be painful.
-	1. Hitting your macros for fat/protein/carbs/calories is hard to do with mental math.
-3. See the next section on what foods you can/can't eat.
+2. If you aren't willing to read labels and track what you eat, you will have an unpredictable and likely negative experience.
+	1. Hitting your macros for fat/protein/carbs/calories is hard to do with mental math/tracking, especially across a week (or two).
+3. See the next section on what foods you can/can't eat. If bread is a dealbreaker, keto is not for you.
 
-Remember that keto is "low" carb, you have a budget, and everything costs. As long as those align, you'll lose weight. For me, that is a maximum of 25 grams a day. The better you are at reducing carbs, the more consistently you will lose weight.
+Remember that keto is "low" carb. You have a budget and everything has a cost. As long as those align, you'll lose weight. For me, that is a maximum of 25 grams a day of carbs. The better you are at reducing carbs, the more consistently you will lose weight.
 
 #### What is a Carbohydrate? (aka what can I NOT eat)
 Carbohydrates are a macronutrient that exists in fibers, starches, and sugars. They turn into glucose when processed by the body. These are "bad" because they prevent your body from entering ketosis and burning fat.
