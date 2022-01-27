@@ -20,60 +20,55 @@ If you experience any of the following symptoms, call emergencies services immed
 4. Troubles breathing
 
 
+Foods high in animal fats and oils can increase your risk of heart disease. Experts still aren't sure if a low or no carb diet is healthy. Talk to your healthcare provider before trying a low or no carb diet.
 
 ## General Info
 The ketogenic (keto) diet is a very low-carb, medium protein, high-fat diet. When carbs are restricted, the body enters a metabolic state called ketosis, which begins burning fat as a primary fuel source in place of carbs. 
 
 ### Quick/Early Exit
-Thought I'd put this here so you can nope out of this bothers you. I would not recommend keto if you aren't willing to do 
+Thought I'd put this here so you can nope out of this bothers you. I would not recommend keto if you aren't willing to do blood testing from finger pricks. Overall, there's a method to make it not painful and I have some advice if it is painful, because it's possible to sample with minimal bother. However, if you cannot do a finger prick you might want to reconsider.
 
-### Dirty vs. Clean Keto
-As the title implies, this is a guide for dirty keto. You will need to use vitamins because when you remove nutrition, the food can simply become a number that needs to fit within a range. That is often easier to reason about and manage.
+Here's what you can and can't eat. Remember, keto is "low" carb, it's possible some of these foods can be consumed so long as you stay under your daily limit for carbs. For me, that is a maximum of 25 grams a day. Just remember that you have a budget and everything has a cost, as long as those match you'll lose weight. The better you are about reducing carbs, the more consistently you will lose weight.
 
-| Dirty Keto | Keto |
-|-|-|
-| Focuses on caloric intake, not nutrition. Vitamins & supplements are needed to prevent malnutrition. | Focuses on nutrient-dense foods emphasizing quality of nutrition while also achieving desired dietary numbers. |
+#### What is a Carbohydrate? (aka what can I NOT eat)
+Carbohydrates are a macronutrient that exist in fibers, starches, and sugars. They turn into glucose when processed by the body. These are "bad" because they prevent your body from entering ketosis and burning fat.
 
-Clean Keto also promotes not eating highly processed foods, regardless of the carb count; like avoiding nitrates in meats, as an example. Again, you can take this as far as you want, but intuitively know that the easier something is to store, prepare, and eat, the more likely it is to be processed.
-
-> Call out for high sodium, sometimes you trade one problem for another. That's why it's crucial to scrutinize the WHOLE label (ingredients & nutritional facts) to be better informed.
-
-### Why Keto?
-I chose this because it had the most food groups that I could tolerate eating over an extended time.
-
-### What is a Carbohydrate?
-These are the things you CANNOT eat*:
+These are the things you **CANNOT** eat*:
 
 >*There are some exceptions
-//TODO
 - Grains
-- Rice
-- Potatoes
-- Bread
+	- Rice
+	- Oatmeal
+	- Wheat
+	- Pasta
+	- Bread
+	- Cereals
+	- Crackers
+- Fruits
+	- Everything, except the berries mentioned in the next section
+- Starchy Vegetables
+	- Corn
+	- Peas
+	- Potatoes
+- Beans & Legumes
+	- Black beans
+	- Chickpeas
+	- Lentils
+	- Lima Beans
+	- Kidney beans
+- Sugar, Snacks, & Juices
+	- Agave nectar
+	- Cane Syrup or Corn Syrup
+	- Dextrose, fructose, or sucrose
+	- Honey
+	- Molasses
+	- Brown & White Sugar
+	
 
 
-### What are Ketones?
-Ketones are a metabolic byproduct from the liver when burning fat for fuel instead of glucose. They are alternative fuels for the body that are made when a lack of glucose is available to the body.
 
-### What is Ketosis?
-
-*DISCLAIMER: I am not a medical professional, but will do my best to describe how this works in the body*
-
-Your body prefers to use blood sugar (aka glucose) for energy. In the absence of glucose, the pancreas reduces insulin production though it continues producing glucagon and epinephrine at normal levels. This combination of low insulin, normal glucagon and epinephrine causes fat to release from the fat cells. Those freed fats then circulate through the blood, reach the liver, and break down into ketones (beta-hydroxybutyrate, also known as BHB). Those ketones then circulate back into the bloodstream and are picked up by the muscles and other tissues to fuel the body's metabolism.
-
-
-### What is Ketoacidosis
-Non-diabetic ketoacidosis occurs when the ketone levels are too high in the body. Ketoacidosis is deadly/life-threatening if left untreated. The buildup of ketones causes the blood pH to drop, causing drowsiness, stupor, coma, and death. The solution is to force the body to produce insulin, either naturally (if it is non-emergency) or by insulin injection.
-
->Note: Lactation & breastfeeding may pose a higher danger/risk; please seek advice from a medical professional if this is you.
-
-### What to expect during the transition
-You will not feel well during the transition from burning carbs to fat. This is because your body is not producing glucose or ketones at high enough levels. As a result, you will have symptoms described as the "keto flu". I've had the keto flu several times by having levels out of range. The good news, this is easily detectable in a blood test and is relatively easy to correct.
-
-I would highly recommend buying exogenous ketone powder/pills to help you transition. As mentioned above, your body doesn't have a fuel source until your liver starts producing ketones in/around 1 mmol/L. When I am less than 1 mmol/L or higher than 2 mmol/L, I feel a little yucky. When I'm too low, I take exogenous ketone supplements to raise the ketone levels in the blood immediately. There are a few products I mention here, one doesn't increase it by much, and the pill form that I have increases by 1 mmol. The effects can be quick, and it's immediately available for consumption when it enters the bloodstream. When your ketone levels are too high, you need to eat carbs to produce insulin. When fasting, eating carbs was the only method I found to bring the levels back down, but it came at a price. I would not recommend working out or fasting, as both activities will cause an increase in ketone production.
-
-
-### What does the Keto Diet look like? (aka what CAN I eat?)
+#### What CAN I eat?
+When looking at the nutritional label for total carbs, know that **Dietary Fibers** aren't counted in keto. Anything that has carbs, but are only under dietary fiber or classified as a Sugar Alcohol, you can subtract from the total carbs to calculate the [Net Carbs](#calculating-net-carbs).
 
 #### High Fat Protein Sources
 - Beef
@@ -123,9 +118,51 @@ Exceptions:
 - Manchego
 - Munster
 
+
+
+### Dirty vs. Clean Keto
+As the title implies, this is a guide for dirty keto. You will need to use vitamins because when you remove nutrition, the food can simply become a number that needs to fit within a range. That is often easier to reason about and manage.
+
+| Dirty Keto | Keto |
+|-|-|
+| Focuses on caloric intake, not nutrition. Vitamins & supplements are needed to prevent malnutrition. | Focuses on nutrient-dense foods emphasizing quality of nutrition while also achieving desired dietary numbers. |
+
+Clean Keto also promotes not eating highly processed foods, regardless of the carb count; like avoiding nitrates in meats, as an example. Again, you can take this as far as you want, but intuitively know that the easier something is to store, prepare, and eat, the more likely it is to be processed.
+
+> Call out for high sodium, sometimes you trade one problem for another. That's why it's crucial to scrutinize the WHOLE label (ingredients & nutritional facts) to be better informed.
+
+
+
+
+
+### What are Ketones?
+Ketones are a metabolic byproduct from the liver when burning fat for fuel instead of glucose. They are alternative fuels for the body that are made when a lack of glucose is available to the body.
+
+### What is Ketosis?
+
+*DISCLAIMER: I am not a medical professional, but will do my best to describe how this works in the body*
+
+Your body prefers to use blood sugar (aka glucose) for energy. In the absence of glucose, the pancreas reduces insulin production though it continues producing glucagon and epinephrine at normal levels. This combination of low insulin, normal glucagon and epinephrine causes fat to release from the fat cells. Those freed fats then circulate through the blood, reach the liver, and break down into ketones (beta-hydroxybutyrate, also known as BHB). Those ketones then circulate back into the bloodstream and are picked up by the muscles and other tissues to fuel the body's metabolism.
+
+
+### What is Ketoacidosis
+Non-diabetic ketoacidosis occurs when the ketone levels are too high in the body. Ketoacidosis is deadly/life-threatening if left untreated. The buildup of ketones causes the blood pH to drop, causing drowsiness, stupor, coma, and death. The solution is to force the body to produce insulin, either naturally (if it is non-emergency) or by insulin injection.
+
+>Note: Lactation & breastfeeding may pose a higher danger/risk; please seek advice from a medical professional if this is you.
+
+### What to expect during the transition
+You will not feel well during the transition from burning carbs to fat. This is because your body is not producing glucose or ketones at high enough levels. As a result, you will have symptoms described as the "keto flu". I've had the keto flu several times by having levels out of range. The good news, this is easily detectable in a blood test and is relatively easy to correct.
+
+I would highly recommend buying exogenous ketone powder/pills to help you transition. As mentioned above, your body doesn't have a fuel source until your liver starts producing ketones in/around 1 mmol/L. When I am less than 1 mmol/L or higher than 2 mmol/L, I feel a little yucky. When I'm too low, I take exogenous ketone supplements to raise the ketone levels in the blood immediately. There are a few products I mention here, one doesn't increase it by much, and the pill form that I have increases by 1 mmol. The effects can be quick, and it's immediately available for consumption when it enters the bloodstream. When your ketone levels are too high, you need to eat carbs to produce insulin. When fasting, eating carbs was the only method I found to bring the levels back down, but it came at a price. I would not recommend working out or fasting, as both activities will cause an increase in ketone production.
+
+
+
 ## About
 
 I am an average mid-30's healthy guy who gained ~50 lbs over '20/'21. I was looking to lose weight without starving, eating veggies solely, or working out. I like some veggies and some working out, but I would rather not if I could help it. 
+
+### Why Keto?
+I chose this because it had the most food groups that I could tolerate eating over an extended time.
 
 ### My Goal
 I wanted to lose 50 lbs passively via dietary modification. Unfortunately, I made several mistakes which pushed me back several weeks from my goal. I think all things optimal, I could have lost the weight in 60 days, but I am now around the 90-day mark with 4.6 lbs left of my 50 lb goal and ready to start sharing the data. 
@@ -155,10 +192,18 @@ If that describes what you're looking for, this guide may help determine if a (d
 
 
 
-## Equipment
 
-## Receipes/Ingredients/Meal Ideas
-See [Recipes](Recipes.md)
+
+
+## How to nutrition
+
+### Calculating Net Carbs
+
+
+#### Dietary Fibers
+
+#### Sugar Substitues
+
 
 ### Sugar Substitutes
 
@@ -232,3 +277,10 @@ As soon as you exit the diet, you will gain weight by forming a habit of rewardi
 
 ## Remove nutrition from food
 Take vitamins and supplements to augment what you're missing from food. It's hard(er) to incorporate caloric intake and nutrition. If you're struggling to eat healthy, augment the healthy and eat dark chocolate and chicken for dinner :)
+
+
+## Equipment
+See [Equipment](Equipment.md)
+
+## Receipes/Ingredients/Meal Ideas
+See [Recipes](Recipes.md)
