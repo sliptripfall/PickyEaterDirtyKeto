@@ -326,6 +326,8 @@ See [Recipes](Recipes.md)
 
 ![](img/daily_nutrition.png)
 
+Remember, you want Fat > Protein > Carbs - I was not balanced for a while and still struggle, but when you become aware and start tracking it gets easier to identify food parings that bring balance.
+
 |Date|SUM of Calories|SUM of Carbs (g)|SUM of Net Carbs (g)|SUM of Fat (g)|SUM of Protein (g)|SUM of Sugar Alcohols (g)|
 |-|-|-|-|-|-|-|
 |2021-10-20|1221.3|21.7|17.21|70.62|124.25|0.12|
