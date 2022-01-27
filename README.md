@@ -324,7 +324,7 @@ See [Recipes](Recipes.md)
 
 ## Daily Nutrition
 
-![[img/daily_nutrition.png]]
+![](img/daily_nutrition.png)
 
 |Date|SUM of Calories|SUM of Carbs (g)|SUM of Net Carbs (g)|SUM of Fat (g)|SUM of Protein (g)|SUM of Sugar Alcohols (g)|
 |-|-|-|-|-|-|-|
