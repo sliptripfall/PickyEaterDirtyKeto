@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Equipment.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Equipment.md",
             "mode": "preview"
           }
         },
@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Equipment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +103,8 @@
   },
   "active": "fd300ad71fe59a3b",
   "lastOpenFiles": [
-    "README.md",
     "Equipment.md",
+    "README.md",
     "Recipes.md",
     "Foods.md"
   ]
