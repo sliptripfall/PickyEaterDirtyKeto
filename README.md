@@ -39,6 +39,9 @@ Remember that keto is "low" carb, you have a budget, and everything costs. As lo
 #### What is a Carbohydrate? (aka what can I NOT eat)
 Carbohydrates are a macronutrient that exists in fibers, starches, and sugars. They turn into glucose when processed by the body. These are "bad" because they prevent your body from entering ketosis and burning fat.
 
+Look at [Foods.md](Foods.md) for a list of the things that I ate while on the diet. Note: some of these things are bad, those mistakes range from not paying attention to the label to needing to bring my ketone levels down by eating heavy carbs.
+
+
 These are examples of things you **CANNOT** eat*:
 
 >*There are some exceptions
