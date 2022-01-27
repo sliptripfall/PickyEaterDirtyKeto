@@ -158,6 +158,11 @@
 
 When buying chocolate, it can be confusing what form you should buy it in and whether or not it will have sugar already added. Here's some information about chocolate to get the terminology and what I usually buy.
 
+**Cacao** - made from beans that have not been roasted (more bitter, more nutritious)
+
+**Cocoa** - made from beans that are both fermented and roasted (less bitter, slightly darker)
+
+
 (unroasted, unfermented) **Cacao Bean:**
 - Cacao Nib: The beans can be broken down into nibs (they look like chocolate chips but have the same nutrition as the whole bean)
 - Cacao Paste: made from cacao nibs that were slowly heated
@@ -175,15 +180,11 @@ When buying chocolate, it can be confusing what form you should buy it in and wh
     - White Chocolate: No cocoa solids; just cocoa butter, sugar, and milk.
 
 
-Cacao - made from beans that have not been roasted (more bitter, more nutritious)
-Cocoa - made from beans that are both fermented and roasted (less bitter, slightly darker)
-
-
 Note: Cacao powder is higher in calories and fiber than Cocoa because the nutrients and fats are still present. Cacao powder is a good source of monosaturated fats, or "good fats" - you will often see this marketed in keto products an MCT (medium-chain triglyceride) oil. A tablespoon of MCT oil contains ~14 grams of fat and 115 calories.
 
-Note: Cocoa can contain dairy and sugar, though Cacao should never have those ingredients.
+Note#2: Cocoa can contain dairy and sugar, though Cacao should never have those ingredients.
 
-Note#2: If you're cooking with the chocolate, this is not Dutched Processed (aka alkalized Cocoa) and does not react with baking soda. Alkalized cocoa makes it darker in color, less bitter, and dissolves easily into liquids. (Oreo cookies are made from dutched Cocoa)
+Note#3: If you're cooking with the chocolate, this is not Dutched Processed (aka alkalized Cocoa) and does not react with baking soda. Alkalized cocoa makes it darker in color, less bitter, and dissolves easily into liquids. (Oreo cookies are made from dutched Cocoa)
 
 
 - [Nestle Toll House Cocoa](https://www.amazon.com/gp/product/B0056GL5Q6)
