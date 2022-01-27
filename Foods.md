@@ -158,21 +158,21 @@
 
 When buying chocolate, it can be confusing what form you should buy it in and whether or not it will have sugar already added. Here's some information about chocolate to get the terminology and what I usually buy.
 
-(unroasted, unfermented) Cacao Bean:
- 	- Cacao Nib: The beans can be broken down into nibs (they look like chocolate chips but have the same nutrition as the whole bean)
-		 - Cacao Paste: made from cacao nibs that were slowly heated
-		 - Cacao Butter: the outer lining of a bean has a white, rich, fatty texture
-		 - Cacao Powder: Made from cold-pressed, unroasted cocoa beans, cocoa powder is made by removing the fat but leaving the live enzymes intact. 
+(unroasted, unfermented) **Cacao Bean:**
+- Cacao Nib: The beans can be broken down into nibs (they look like chocolate chips but have the same nutrition as the whole bean)
+- Cacao Paste: made from cacao nibs that were slowly heated
+- Cacao Butter: the outer lining of a bean has a white, rich, fatty texture
+- Cacao Powder: Made from cold-pressed, unroasted cocoa beans, cocoa powder is made by removing the fat but leaving the live enzymes intact. 
 
-(roasted, fermented) Cocoa Bean:
-	- Powder
-		- Cocoa Powder: The dry solid remains of the roasted bean once the butter is removed. Has slightly lower nutritional value due to high heat in processing.
-		- Cocoa Powder Mix: cocoa powder + sugar and fats (usually found in grocery stores)
-	- Chocolate
-		- Chocolate Liquor: Pure Cocoa in a solid or semisolid form containing cocoa solids and cocoa butter. Chocolate liquor is the same thing as unsweetened chocolate.
-		- Dark Chocolate (bittersweet, semisweet): Chocolate liquor + Cocoa butter and sugar.
-		- Milk Chocolate: Chocolate liquor plus milk powder or condensed milk and sugar/added fat.
-		- White Chocolate: No cocoa solids; just cocoa butter, sugar, and milk.
+(roasted, fermented) **Cocoa Bean:**
+- Powder
+  - Cocoa Powder: The dry solid remains of the roasted bean once the butter is removed. Has slightly lower nutritional value due to high heat in processing.
+    - Cocoa Powder Mix: cocoa powder + sugar and fats (usually found in grocery stores)
+  - Chocolate
+    - Chocolate Liquor: Pure Cocoa in a solid or semisolid form containing cocoa solids and cocoa butter. Chocolate liquor is the same thing as unsweetened chocolate.
+    - Dark Chocolate (bittersweet, semisweet): Chocolate liquor + Cocoa butter and sugar.
+    - Milk Chocolate: Chocolate liquor plus milk powder or condensed milk and sugar/added fat.
+    - White Chocolate: No cocoa solids; just cocoa butter, sugar, and milk.
 
 
 Cacao - made from beans that have not been roasted (more bitter, more nutritious)
