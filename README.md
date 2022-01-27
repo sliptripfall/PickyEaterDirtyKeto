@@ -71,7 +71,7 @@ These are the things you **CANNOT** eat*:
 When looking at the nutritional label for total carbs, know that **Dietary Fibers** aren't counted in keto. Anything that has carbs, but are only under dietary fiber or classified as a Sugar Alcohol, you can subtract from the total carbs to calculate the [Net Carbs](#calculating-net-carbs).
 
 
-**NOTE**: You can have cacao and cocoa (aka dark chocolate), see the section on [chocolate](#Foods#Ingredients) for more information.
+**NOTE**: You can have cacao and cocoa (aka dark chocolate), see the section on [chocolate](Foods.md#Ingredients) for more information.
 
 #### High Fat Protein Sources
 - Beef
