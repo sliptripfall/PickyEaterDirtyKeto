@@ -7,7 +7,8 @@
 - [Nestle Toll House Cocoa](https://www.amazon.com/gp/product/B0056GL5Q6)
 
 - [Carbquik Baking Mix](https://www.amazon.com/gp/product/B000G0EP78)
-![[carbquik.png]]
+
+![](img/carbquik.png)
 
 
 When buying chocolate, it can be confusing what form you should buy it in and whether or not it will have sugar already added. Here's some information about chocolate to get the terminology and what I usually buy.
@@ -60,7 +61,7 @@ This is a no-brainer; the only danger here is that it's easy to blow past your p
 
 Hands down the best chips that I've tasted. You almost can't tell.
 - [BeyondChipz Keto Tortilla Chips](https://www.amazon.com/gp/product/B08L85GGD1)
-![[beyondchipz.png]]
+![](img/beyondchipz.png)
 
 # Supplements
 
