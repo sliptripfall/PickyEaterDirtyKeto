@@ -46,6 +46,13 @@ These are decent, go crazy
 # Testing
 
 ## Blood
+This is the most important piece of equipment you should buy. Monitoring your ketone levels in your blood will give you the information you need to correct any ill feelings due to too low or too high ketones in the blood.
+
+
+### About painful pricks
+Using a lancet pen SHOULD NOT HURT. If you have a throb or deep pain, either your head is adjusted to puncture too far into the skin or you're pressing the head against your skin too hard. Try easeing up on the pressure or depth, you will feel a pinch but it shouldn't "hurt".
+
+I use the sides of my ring and pinky fingers due to calluses. 
 
 ### Lancets
 [KetoBM Lancets - Pack of 100](https://www.amazon.com/gp/product/B07QYK8VZ6)
